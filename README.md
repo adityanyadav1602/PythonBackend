@@ -111,4 +111,5 @@ All tests execute against an isolated in-memory SQLite database, guaranteeing ze
 
 - **Aditya N. Yadav**
 - Email: [aditya.n.yadav.dev@gmail.com](mailto:aditya.n.yadav.dev@gmail.com)
+- LinkedIn: [aditya-narayanyadav](https://www.linkedin.com/in/aditya-narayanyadav/)
 - GitHub: [@adityanyadav1602](https://github.com/adityanyadav1602)
